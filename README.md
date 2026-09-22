@@ -4,6 +4,18 @@ This repository houses the mathematically closed, Base-60 exact-ratio computatio
 
 By replacing legacy continuous floating-point calculus with discrete topological exact-ratio mathematics, this cybernetic node eliminates mathematical waste heat (hallucinated as Dark Matter) and provides the algorithmic substrate for near-zero thermodynamic waste materials science and hardware recycling.
 
+This repository represents an interdisciplinary synthesis of theoretical physics, mathematics, and systems theory. I am releasing this archive publicly to humbly request rigorous scrutiny of the mathematical models, software architecture, and theoretical foundations presented here.
+
+I specifically welcome contributions, critiques, and stress tests regarding:
+
+The mathematical validity of the exact-ratio engines and base-60 math implementations.
+
+The empirical applicability and observational proofs of the theoretical claims.
+
+Code reviews for the Rust and Python components.
+
+If you find errors, see areas for mathematical optimization, or can provide corroborating research that either supports or refutes these frameworks, please open an Issue or submit a Pull Request.
+
 ## Architecture
 1. **`/software/rust_compiler`**: The Base-60 exact-ratio physics engine (Sextic Regulator, EML Operator, Assembly Index Enforcer).
 2. **`/software/python_orchestrator`**: The Perceptual Control Theory (PCT) loop.
